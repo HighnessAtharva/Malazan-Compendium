@@ -1,3 +1,8 @@
+# Malazan Book of the Fallen Compendium
+👇 View the Compendium
+
+[Malazan Compendium by Atharva Shah](highnessatharva.github.io/Malazan-Compendium)
+
 # About 
 
 This ***Malazan Book of the Fallen Compendium*** is compiled from [Malazan Reread of the Fallen](https://www.tor.com/series/malazan-reread-of-the-fallen/), the content is written by the beautiful people at Tor - [Bill Capossere](https://www.tor.com/author/bill-capossere/) and [Amanda Rutter](https://www.tor.com/author/amanda-rutter/). Text content is released under Creative Commons BY-SA.
