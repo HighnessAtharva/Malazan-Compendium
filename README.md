@@ -1,7 +1,7 @@
 # Malazan Book of the Fallen Compendium
 👇 View the Compendium
 
-[Malazan Compendium by Atharva Shah](highnessatharva.github.io/Malazan-Compendium)
+[Malazan Compendium by Atharva Shah](https://highnessatharva.github.io/Malazan-Compendium)
 
 # About 
 
