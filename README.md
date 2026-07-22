@@ -16,3 +16,17 @@ Please send feedback and corrections to highnessatharva@gmail.com
 # Support
 
 If you liked this compilation and have the means to support me for more such compendiums please [Buy Me A Coffee.](https://www.buymeacoffee.com/AtharvaShah) I also take personal requests with nominal fees. Much Appreciated :)
+
+<!-- social-footer -->
+---
+
+<div align="center">
+
+**Atharva Shah** — Python & AI Engineer · Developer Advocate · Technical Writer
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://atharvashah.com)
+[![Blog](https://img.shields.io/badge/Blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://blog.atharvashah.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cultist_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-shah-tech/)
+
+</div>
